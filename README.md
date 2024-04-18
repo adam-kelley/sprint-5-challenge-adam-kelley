@@ -103,7 +103,7 @@ Hey! Let's make sure you're up to speed with your **action items so far**.
 
 Awesome! Our back-end engineer says that the JSON data needed to build the Learner Cards comes from two endpoints:
 
-- Endpoint A [GET] <http://localhost:3003/api/learners>
+- Endpoint A [GET] <http://localhost:300s>3/api/learners>
 - Endpoint B [GET] <http://localhost:3003/api/mentors>
 
 ❗ You should stop now, and **try out both endpoints using Postman**, to see what they return.
